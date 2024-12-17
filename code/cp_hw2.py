@@ -1,5 +1,5 @@
 #!/usr/bin/python
-""" This is a module for hdr imaging homework (15-463/663/862, Computational Photography, Fall 2020, CMU).
+""" This is a module for hdr imaging homework (15-463/663/862, Computational Photography, Fall 2024, CMU).
 
 You can import necessary functions into your code as follows:
 from cp_hw2 import lRGB2XYZ, XYZ2lRGB, writeEXR, read_colorchecker_gm
